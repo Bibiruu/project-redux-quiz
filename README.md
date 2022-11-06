@@ -13,4 +13,4 @@ The biggest problem was to understand and get data to summary component. We have
 
 ## View it live
 
-https://friends-redux-quiz.netlify.app/
+https://maria-redux-quix-friendstheme.netlify.app/
